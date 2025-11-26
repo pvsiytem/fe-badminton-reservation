@@ -1,3 +1,7 @@
+## .env file
+NEXT_PUBLIC_API_URL=http://localhost:8080/api
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_test_apikeyhere
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
